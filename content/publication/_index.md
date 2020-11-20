@@ -1,6 +1,6 @@
 ---
 title: Publications
-
+**Authors**. Year. "Title" *Journal*, volume(issue): pages. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580159]
 # View.
 #   1 = List
 #   2 = Compact
