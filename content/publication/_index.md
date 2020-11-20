@@ -13,5 +13,5 @@ header:
   caption: ""
   # url = "Wu Zhiting Job Market Paper.pdf"
   image: ""
-  url = "media/Wu Zhiting Job Market Paper.pdf"
+  url = "media/JMP.pdf"
 ---
