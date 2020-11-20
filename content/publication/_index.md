@@ -10,7 +10,8 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Firm"
+  caption: ""
   # url = "Wu Zhiting Job Market Paper.pdf"
   image: ""
+  url = "media/Wu Zhiting Job Market Paper.pdf"
 ---
