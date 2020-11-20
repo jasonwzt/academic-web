@@ -16,8 +16,8 @@ publishDate: "2020-11-10T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: ""
+publication_short: ""
 
 abstract: I incorporate the productivity growth with regime-switching in the conditional mean and volatility into an investment-based q-factor asset pricing model. The long-run productivity risks factors largely summarize the cross-sectional stock return, where the time-varying volatility plays an important role. A parsimonious q-factor model driven by productivity risks explains about 90% variation of return of 25 Size/BM portfolios and 75% variation of return of 160 portfolios, which is comparable to the Fama-French multifactor models, the Carhart (1997) four-factor model, and the Hou, Mo, Xue & Zhang (2020) augmented q-factor model. Therefore, productivity growth can be the potential force driving investment-based models.
 
