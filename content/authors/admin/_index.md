@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am Zhiting Wu, a PhD candidate in the School of Economics and Finance, University of St Andrews. I am a financial/macro-economist specialized in Asset Pricing and Macro-Finance. My research interests include Asset Pricing, Macro-Finance, and Macroeconomics. I am also very interested in the application of microeconomic data to quantitative macroeconomic models.
+Welcome! I am Zhiting Wu, a PhD candidate in the School of Economics and Finance, University of St Andrews. I am a financial/macro-economist specialized in Theoretical and Empirical Asset Pricing. My research interests include Asset Pricing, Macro-Finance, and Macroeconomics. I am also very interested in the application of microeconomic data to quantitative macroeconomic models.
 
 I am on the 2020-2021 job market and will be available for interviews during the next few months.
 
