@@ -12,5 +12,4 @@ view: 4
 header:
   caption: ""
   image: ""
-  url = "media/CV.pdf"
 ---
