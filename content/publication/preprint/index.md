@@ -2,11 +2,11 @@
 title: "Firm Heterogeneity in Production-Based Asset Pricing: The Role of Habit Sensitivity and Lumpy Investment (Job Market Paper)"
 authors:
 - admin
-date: "2020-05-08T00:00:00Z"
+date: "2020-11-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-08T00:00:00Z"
+publishDate: "2020-11-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
