@@ -2,7 +2,7 @@
 title: "A Long-Run Productivity Risks Driving q-Factor Model"
 authors:
 - admin
-- Robert Ford
+# - Robert Ford
 date: "2020-11-10T00:00:00Z"
 doi: ""
 
