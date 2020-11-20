@@ -24,9 +24,9 @@ abstract: I incorporate the productivity growth with regime-switching in the con
 # Summary. An optional shortened abstract.
 summary: A q-Factor model with long-run productivity risks can largely explain the variation of cross-sectional equity return.
 
-tags:
-- Source Themes
-featured: true
+# tags:
+# - Source Themes
+featured: false
 
 links:
 # - name: Custom Link
