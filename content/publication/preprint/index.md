@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Firm Heterogeneity in Production-Based Asset Pricing: The Role of Habit Sensitivity and Lumpy Investment"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2020-05-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I study the interaction between lumpy investment and asset prices in both time-series and cross-section. To this end, I build a model with lumpy investment a variant of habit sensitivity function of Campbell & Cochrane (1999) habit preference. The model produces 100% equity volatility by generating volatile marginal utility and robustly matches investment dynamics under non-convex costs. Second, my model reproduces almost 100% equity premiums because the benchmark model assigns additional weights on precautionary savings and constrained firms, respectively. My model also generates considerable size premiums since small firms absorb more productivity risks. Finally, my model reasonably matches crucial moments of macro-dynamics and the cross-sectional investment rate.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Habit Formation, Lumpy Investment, Firm Heterogeneity, Production-Based Asset Pricing, Size Premium
 
 tags:
 - Source Themes
