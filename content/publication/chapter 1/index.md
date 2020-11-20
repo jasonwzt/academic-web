@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "The Sensitivity of Risk Premiums to the Elasticity of Inter-temporal Substitution"
 authors:
 - admin
 date: "2018-12-03T00:00:00Z"
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I offer two extensions on Pagel (2016)’s reference-dependent preference and study their aggregate implications in a consumption-based asset pricing model. I first extend time-separable utility to recursive utility, which allows the model to reproduce crucial asset pricing moments with a simple IID process for consumption growth. Second, I estimate and introduce a first-order autoregression consumption shock, and I find that it improves model performance by smoothing interest rates. My additional finding is that the elasticity of intertemporal substitution is more sensitive to asset prices given the recursive preference.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Two additional extensions improve the performances of a consumption-based asset pricing model of loss aversion preference and lead to high sensitivity of the elasticity of intertemporal substitution to asset prices.   
 
 # tags:
 # - Source Themes
