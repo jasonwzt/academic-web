@@ -23,7 +23,7 @@ abstract: I study the interaction between lumpy investment and asset prices in b
 key words: Habit Formation, Lumpy Investment, Firm Heterogeneity, Production-Based Asset Pricing, Size Premium.
 
 # Summary. An optional shortened abstract.
-summary: A DSGE model with recursive utility, search frictions, and capital accumulation is a good start to formulating a unified theory of asset prices and business cycles. 
+summary: A heterogeneous firm DSGE model with novel habit sensitivity function and fixced capital adjustment costs is a good start to formulating a unified theory of asset prices and business cycles in both time-series and cross-section. 
 
 tags:
 - Source Themes
@@ -37,7 +37,7 @@ url_pdf: https://poseidon01.ssrn.com/delivery.php?ID=430017065017089082087093103
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: ''
+url_slides: 'media/CV.pdf'
 # url_source: '#'
 # url_video: '#'
 
