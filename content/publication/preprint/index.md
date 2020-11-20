@@ -23,8 +23,8 @@ abstract: I study the interaction between lumpy investment and asset prices in b
 # Summary. An optional shortened abstract.
 summary: A heterogeneous firm DSGE model with novel habit sensitivity function and fixced capital adjustment costs is a good start to formulating a unified theory of asset prices and business cycles in both time-series and cross-section. 
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 links:
