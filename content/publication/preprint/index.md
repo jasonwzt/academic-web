@@ -20,8 +20,6 @@ publication_short: ""
 
 abstract: I study the interaction between lumpy investment and asset prices in both time-series and cross-section. To this end, I build a model with lumpy investment a variant of habit sensitivity function of Campbell & Cochrane (1999) habit preference. The model produces 100% equity volatility by generating volatile marginal utility and robustly matches investment dynamics under non-convex costs. Second, my model reproduces almost 100% equity premiums because the benchmark model assigns additional weights on precautionary savings and constrained firms, respectively. My model also generates considerable size premiums since small firms absorb more productivity risks. Finally, my model reasonably matches crucial moments of macro-dynamics and the cross-sectional investment rate.
 
-key words: Habit Formation, Lumpy Investment, Firm Heterogeneity, Production-Based Asset Pricing, Size Premium.
-
 # Summary. An optional shortened abstract.
 summary: A heterogeneous firm DSGE model with novel habit sensitivity function and fixced capital adjustment costs is a good start to formulating a unified theory of asset prices and business cycles in both time-series and cross-section. 
 
@@ -62,10 +60,10 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: ""
----
 
 # {{% alert note %}}
 # Click the *Slides* button above to demo Academic's Markdown slides feature.
 # {{% /alert %}}
 
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+---
