@@ -60,7 +60,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: ""
-
+---
 # {{% alert note %}}
 # Click the *Slides* button above to demo Academic's Markdown slides feature.
 # {{% /alert %}}
