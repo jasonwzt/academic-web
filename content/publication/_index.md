@@ -12,5 +12,5 @@ view: 4
 header:
   caption: ""
   image: ""
-  # url = "media/JMP.pdf"
+  url = "media/CV.pdf"
 ---
