@@ -37,7 +37,7 @@ url_pdf: https://poseidon01.ssrn.com/delivery.php?ID=430017065017089082087093103
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: 'media/CV.pdf'
+# url_slides: 'media/CV.pdf'
 # url_source: '#'
 # url_video: '#'
 
