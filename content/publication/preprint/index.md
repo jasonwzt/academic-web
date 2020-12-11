@@ -60,7 +60,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: "slides"
-url = "media/CV.pdf"
+url: 'media/CV.pdf'
 
 
 # {{% alert note %}}
