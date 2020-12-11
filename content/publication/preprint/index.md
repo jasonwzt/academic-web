@@ -66,7 +66,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "academic-web/static/media/2020ESEWM.pdf"
+slides: "https://github.com/jasonwzt/academic-web/static/media/2020ESEWM.pdf"
 
 # {{% alert note %}}
 # Click the *Slides* button above to demo Academic's Markdown slides feature.
