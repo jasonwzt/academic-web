@@ -35,7 +35,7 @@ url_pdf: https://poseidon01.ssrn.com/delivery.php?ID=117092085029102123127002103
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-# url_slides: 'media/CV.pdf'
+url_slides: 'media/CV.pdf'
 # url_source: '#'
 # url_video: '#'
 
@@ -59,8 +59,8 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "slides"
-url: 'media/CV.pdf'
+# slides: "slides"
+# url: 'media/CV.pdf'
 
 
 # {{% alert note %}}
