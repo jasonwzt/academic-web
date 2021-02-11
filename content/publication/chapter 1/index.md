@@ -29,7 +29,7 @@ featured: false
 
 links:
 # - name: Custom Link
-#   url: http://example.org
+  url: http://example.org
 # url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3780403
 # url_code: '#'
 # url_dataset: '#'
