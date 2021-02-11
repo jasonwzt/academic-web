@@ -12,7 +12,7 @@ publishDate: "2018-12-03T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -29,8 +29,8 @@ featured: false
 
 links:
 # - name: Custom Link
-  url: http://example.org
-# url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3780403
+#  url: http://example.org
+ url_pdf: https://poseidon01.ssrn.com/delivery.php?ID=475067021089025024010030026025121005125033039077095007109010103022024025089069089027011106020047055036105027066123027070073098098057087032023080014078102004119030003028034084093026002094065101001121090003026122005068108067001079105022110091122084072021&EXT=pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
