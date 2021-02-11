@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: I offer two extensions on Pagel (2016)’s reference-dependent preference and study their aggregate implications in a consumption-based asset pricing model. I first extend time-separable utility to recursive utility, which allows the model to reproduce crucial asset pricing moments with a simple IID process for consumption growth. Second, I estimate and introduce a first-order autoregression consumption shock, and I find that it improves model performance by smoothing interest rates. My additional finding is that the elasticity of intertemporal substitution is more sensitive to asset prices given the recursive preference.
+abstract: I incorporate the recursive utility into Pagel (2016)'s reference-dependent preference and study their aggregate implications in a consumption-based asset pricing model. In the case of recursive utility, the proposed model reproduces crucial asset pricing moments and time-varying risk premiums with a simple IID process for consumption growth. Second, the proposed model consistently predicts that the agent prefers a late resolution of uncertainty in both time-separable and recursive utility. My additional finding is that intertemporal substitution elasticity is more sensitive to asset prices given the recursive preference. Finally, the introduction of sluggish-updating can improve model performances.
 
 # Summary. An optional shortened abstract.
 summary: Two additional extensions improve the performances of a consumption-based asset pricing model of loss aversion preference and lead to high sensitivity of the elasticity of intertemporal substitution to asset prices.   
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+ url_pdf: https://poseidon01.ssrn.com/delivery.php?ID=631024088114107119127069088097087030097033001017049013093124095124025100066029091067106004003004103059109065000066113126065077019040011087093005019026094065089001026049041083093096082022072020118124105123010025100118031100086073087126117006088013121071&EXT=pdf&INDEX=TRUE
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
